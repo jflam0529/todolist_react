@@ -1,0 +1,7 @@
+	1.	index.js：项目入口文件，React 的启动点。
+	2.	App.js：主组件，组织子组件。
+	3.	TodoList.js 和其他组件文件：查看自定义组件的逻辑。
+	4.	App.css 和其他样式文件：了解样式如何应用到组件上。
+	5.	public/index.html：React 挂载的 HTML 页面。
+	6.	package.json：项目依赖和脚本。
+
